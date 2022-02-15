@@ -6,10 +6,8 @@ highlighter: shiki
 lineNumbers: true
 download: true
 info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
-
-  Learn more at [Sli.dev](https://sli.dev)
+  ## 基于 MSW 的 Mock 解决方案
+  [Mock Service Worker](https://mswjs.io/docs/)
 drawings:
   persist: false
 title: 基于 MSW 的 Mock 解决方案
@@ -17,7 +15,7 @@ title: 基于 MSW 的 Mock 解决方案
 
 # 基于 MSW 的 Mock 解决方案
 
-<span class="hover:text-white" hover="bg-white">[Mock Service Worker](https://mswjs.io/docs/)</span>
+[Mock Service Worker](https://mswjs.io/docs/)
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
