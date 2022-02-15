@@ -3,7 +3,8 @@ theme: seriph
 background: https://source.unsplash.com/collection/94734566/1920x1080
 class: text-center
 highlighter: shiki
-lineNumbers: false
+lineNumbers: true
+download: true
 info: |
   ## Slidev Starter Template
   Presentation slides for developers.
@@ -11,7 +12,7 @@ info: |
   Learn more at [Sli.dev](https://sli.dev)
 drawings:
   persist: false
-title: Welcome to Slidev
+title: 基于 MSW 的 Mock 解决方案
 ---
 
 # 基于 MSW 的 Mock 解决方案
